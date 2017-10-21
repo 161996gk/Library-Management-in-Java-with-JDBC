@@ -10,4 +10,4 @@ Main Class file- Library.java
 Note: You have to set the class path of the Mysql-Java Connector.
 
 
-******************************************************Copyright By Gaurav Kumar_11142548_5-A3**************************************************************
+******************************************************Copyright By Gaurav Kumar**************************************************************
